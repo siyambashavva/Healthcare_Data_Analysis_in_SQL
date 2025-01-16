@@ -1,5 +1,10 @@
 # Healthcare_Data_Analysis_in_SQL
 
+Bu veri seti Kaggle'dan alınmıştır. [veri setine buradan ulaşabilirsiniz] (https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
+**MSSQL Server** kullanılarak geliştirilmiştir.
+Aşağıda da veri setine dair bilgiler verilmiştir.
+
+
 - **Name:** Bu kolon, sağlık kaydıyla ilişkili hastanın adını temsil eder.
 - **Age:** Hastanın yatış sırasındaki yaşını ifade eder, yıl olarak belirtilir.
 - **Gender:** Hastanın cinsiyetini belirtir, "Male" veya "Female" olarak gösterilir.

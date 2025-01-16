@@ -1,6 +1,6 @@
 # Healthcare_Data_Analysis_in_SQL
 
-Bu veri seti Kaggle'dan alınmıştır. [veri setine buradan ulaşabilirsiniz] (https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
+Bu veri seti Kaggle'dan alınmıştır. Veri setine buradan ulaşabilirsiniz. (https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
 **MSSQL Server** kullanılarak geliştirilmiştir.
 Aşağıda da veri setine dair bilgiler verilmiştir.
 
